@@ -39,7 +39,8 @@ Finally, the ROW_NUMBER() window function was used to assign an application orde
 3.WINDOW FUNCTION (RANK STUDENTS) 
 <img width="870" height="628" alt="Image" src="https://github.com/user-attachments/assets/b04f3421-39aa-4cea-955b-2e56193a4021" />
 
-# 4.WINDOW FUNCTION (ROW_NUMBER) : Assign application order per student
+4.WINDOW FUNCTION (ROW_NUMBER) : Assign application order per student
+<img width="985" height="627" alt="Image" src="https://github.com/user-attachments/assets/a8e6f0ad-f153-4ed3-a3b5-2755e7b42a6d" />
 
 
 
