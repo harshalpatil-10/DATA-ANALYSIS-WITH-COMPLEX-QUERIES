@@ -36,7 +36,8 @@ Finally, the ROW_NUMBER() window function was used to assign an application orde
 2.CTE (APPLICATION COUNT REPORT)
 <img width="887" height="706" alt="Image" src="https://github.com/user-attachments/assets/f82ca51d-0168-4a84-b3f1-4a2c8b545c6b" />
 
-# 3.WINDOW FUNCTION (RANK STUDENTS) : Rank students based on number of applications
+3.WINDOW FUNCTION (RANK STUDENTS) 
+<img width="870" height="628" alt="Image" src="https://github.com/user-attachments/assets/b04f3421-39aa-4cea-955b-2e56193a4021" />
 
 # 4.WINDOW FUNCTION (ROW_NUMBER) : Assign application order per student
 
