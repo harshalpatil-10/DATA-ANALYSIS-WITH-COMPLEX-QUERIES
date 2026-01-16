@@ -30,10 +30,11 @@ Finally, the ROW_NUMBER() window function was used to assign an application orde
 
 *OUTPUT*
 
-1.SUBQUERY (STUDENT ANALYSIS) :  To find students who have applied for more than one job
+1.SUBQUERY (STUDENT ANALYSIS)
 <img width="947" height="604" alt="Image" src="https://github.com/user-attachments/assets/9d47658a-3075-44ab-83ee-06f272c00556" />
 
-# 2.CTE (APPLICATION COUNT REPORT) : To count number of applications per student
+2.CTE (APPLICATION COUNT REPORT)
+<img width="887" height="706" alt="Image" src="https://github.com/user-attachments/assets/f82ca51d-0168-4a84-b3f1-4a2c8b545c6b" />
 
 # 3.WINDOW FUNCTION (RANK STUDENTS) : Rank students based on number of applications
 
