@@ -28,6 +28,8 @@ The third part of Task 2 introduced window functions, which are essential for ad
 
 Finally, the ROW_NUMBER() window function was used to assign an application order number to each student based on application date. This analysis is useful for tracking the sequence of applications submitted by students and for generating chronological reports. Window functions such as ROW_NUMBER() are widely used in pagination, reporting, and data analysis systems.
 
+Overall, Task 2 demonstrated how advanced SQL features can be used to analyze data, identify trends, and generate meaningful insights from relational databases. All SQL queries were written with proper commenting for clarity and understanding, and the complete task was organized and uploaded to a public GitHub repository as per the internship guidelines. This task significantly enhanced my understanding of advanced SQL concepts and their practical applications in real-world database-driven systems.
+
 *OUTPUT*
 
 1.SUBQUERY (STUDENT ANALYSIS)
@@ -44,4 +46,4 @@ Finally, the ROW_NUMBER() window function was used to assign an application orde
 
 
 
-Overall, Task 2 demonstrated how advanced SQL features can be used to analyze data, identify trends, and generate meaningful insights from relational databases. All SQL queries were written with proper commenting for clarity and understanding, and the complete task was organized and uploaded to a public GitHub repository as per the internship guidelines. This task significantly enhanced my understanding of advanced SQL concepts and their practical applications in real-world database-driven systems.
+
